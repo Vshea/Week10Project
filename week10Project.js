@@ -1,20 +1,3 @@
-// class Player {
-//     constructor (name, username, color) {
-//         this.name = name;
-//         this.username = username;
-//         this.color = color;
-//     }
-    
-//     addPlayer(player) {
-//         this.players.push(player);
-//     }
-//     deletePlayer(player) {
-//         let index = this.players.indexOfMember;
-//         this.players.splice(index, 1)
-//     }
-// }
-
-
 const form = document.querySelector('form');
 
 const tbody = document.querySelector('tbody');
